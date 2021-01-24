@@ -7,7 +7,7 @@ Endpoints are divided into 2 categories:
 - High Level Operation (Operations): Include endpoints which trigger Create, Update and Delete operations.
 - Low Level Operation (Query): Include endpoints which only trigger Read Operations.
 
-## API deployed on Heroku: `https://contact-api-001.herokuapp.com/`
+## API deployed on Heroku: [`https://contact-api-001.herokuapp.com/`](https://contact-api-001.herokuapp.com/)
 
 ## Authentication
 
